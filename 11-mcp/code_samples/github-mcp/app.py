@@ -33,6 +33,8 @@ from azure.search.documents.indexes.models import SearchIndex, SimpleField, Sear
 # Load environment variables
 load_dotenv()
 
+#test comment- learning
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
